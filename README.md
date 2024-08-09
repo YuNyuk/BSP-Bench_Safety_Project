@@ -10,6 +10,7 @@
     - 긴급 상황: 바벨이 목 부근으로 떨어지는 긴급한 상황
 
 ## Background
+배경 영상 </br></br>
 [![Video Label](http://img.youtube.com/vi/u2nGdxBQP50/sddefault.jpg)](https://youtu.be/u2nGdxBQP50)
 
 ## Clone code
@@ -57,5 +58,5 @@ https://github.com/jd6286/BSP_BenchSafetyProject.git
 ![Emergency Output](https://github.com/jd6286/BSP_BenchSafetyProject/assets/93331084/ab06ec18-90eb-4520-b956-135ee58b5af4)
 
 ## Result
-
+시연 영상 </br></br>
 [![Video Label](https://img.youtube.com/vi/KG8B4h4ZDTI/sddefault.jpg)](https://youtu.be/KG8B4h4ZDTI)
